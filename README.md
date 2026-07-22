@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 - **Admin Login:**
   - **Email:** `admin@genesis.com`
-  - **Password:** 
+  - **Password:** `admin123`
 - **Recruit Registration:** Use the `/signup` page to register as a recruit.
 
 ---
